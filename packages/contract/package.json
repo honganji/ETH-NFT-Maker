@@ -22,8 +22,10 @@
     "solhint": "3.3.7"
   },
   "scripts": {
+    "run:script":"npx hardhat run scripts/run.js",
     "test": "npx hardhat test",
     "deploy": "npx hardhat run scripts/deploy.js --network sepolia",
-    "solhint": "solhint --max-error 0 -c ./.solhint.json \"contracts/**/*.sol\""
+    "solhint": "solhint --max-error 0 -c ./.solhint.json \"contracts/**/*.sol\"",
+    "start":"npx hardhat node"
   }
 }
