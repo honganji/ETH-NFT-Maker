@@ -5,8 +5,8 @@
   <br />
   <p align="center">
 <img src="https://img.shields.io/badge/Solidity-0.8.17-blue?logo=solidity"/>
-<img src="https://img.shields.io/badge/hardhat-2.13.0-blue"/>
-<img src="https://img.shields.io/badge/React-16.12.0-blue?logo=react"/>
+<img src="https://img.shields.io/badge/hardhat-2.14.0-blue"/>
+<img src="https://img.shields.io/badge/React-18.1.0-blue?logo=react"/>
 <img src="https://img.shields.io/badge/-javascript-blue?logo=javascript"/>
 </p>
 
@@ -18,7 +18,7 @@
 
 ## • Links
 
-[![production](https://img.shields.io/badge/production-v1-blue)](https://eth-dapp-three.vercel.app/)
+[![production](https://img.shields.io/badge/production-v1-blue)](https://eth-nft-maker-client.vercel.app/)
 
 ## • Overview
 
