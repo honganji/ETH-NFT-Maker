@@ -14,18 +14,19 @@
     "@typechain/ethers-v5": "^10.2.1",
     "@typechain/hardhat": "^6.1.6",
     "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
     "ethers": "^5.4.7",
     "hardhat": "^2.14.0",
     "hardhat-gas-reporter": "^1.0.9",
+    "solhint": "3.3.7",
     "solidity-coverage": "^0.8.2",
-    "typechain": "^8.1.1",
-    "solhint": "3.3.7"
+    "typechain": "^8.1.1"
   },
   "scripts": {
-    "run:script":"npx hardhat run scripts/run.js",
+    "run:script": "npx hardhat run scripts/run.js",
     "test": "npx hardhat test",
     "deploy": "npx hardhat run scripts/deploy.js --network sepolia",
     "solhint": "solhint --max-error 0 -c ./.solhint.json \"contracts/**/*.sol\"",
-    "start":"npx hardhat node"
+    "start": "npx hardhat node"
   }
 }
