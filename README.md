@@ -18,13 +18,13 @@
 
 ## • Links
 
-[![production](https://img.shields.io/badge/production-v1-blue)](https://eth-nft-maker-client.vercel.app/)
+[Deployed here](https://eth-nft-maker-client.vercel.app/)
+
+[![Frontend](assets/frontend.png)](https://eth-nft-maker-client.vercel.app/)
 
 ## • Overview
 
 This is a dapp that you can mint NFT. The URI is IPFS so the NFT is completely desentralized and diversed.
-
-This app is deployed to [here](https://eth-nft-maker-client.vercel.app/).
 
 ## • Launch
 
