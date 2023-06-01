@@ -18,7 +18,7 @@
 
 ## • Overview
 
-This project is made following [this instructions](https://app.unchain.tech/learn/ETH-NFT-Maker/). Engineer cmmunity `UNCHAIN` is one of the best one to learn blockchain development.
+This project is made following [this instructions](https://app.unchain.tech/learn/ETH-NFT-Maker/)made by engineer cmmunity `UNCHAIN`. This one is one of the best one to learn blockchain development.
 
 This is a dapp that you can mint NFT. The URI is IPFS so the NFT is completely desentralized and diversed.
 
