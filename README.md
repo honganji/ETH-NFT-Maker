@@ -16,15 +16,17 @@
 
 <br/>
 
+## • Overview
+
+This project is made following [this instructions](https://app.unchain.tech/learn/ETH-NFT-Maker/). Engineer cmmunity `UNCHAIN` is one of the best one to learn blockchain development.
+
+This is a dapp that you can mint NFT. The URI is IPFS so the NFT is completely desentralized and diversed.
+
 ## • Links
 
 [Deployed here](https://eth-nft-maker-client.vercel.app/)
 
 [![Frontend](assets/frontend.png)](https://eth-nft-maker-client.vercel.app/)
-
-## • Overview
-
-This is a dapp that you can mint NFT. The URI is IPFS so the NFT is completely desentralized and diversed.
 
 ## • Launch
 
